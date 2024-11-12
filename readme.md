@@ -1,4 +1,4 @@
 # Nama dan NIM
 
-- **Nama:** [Masukkan Nama Anda]
-- **NIM:** [Masukkan NIM Anda]
+- **Nama:** fawwaz
+- **NIM:** a1c022093
